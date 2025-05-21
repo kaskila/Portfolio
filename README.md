@@ -64,7 +64,10 @@ Built a full pipeline mineral classification system using CNNs to identify types
 
 ### Connect with Me
 🔗 GitHub: github.com/KasikilaIsaac
+
 🔗 LinkedIn: linkedin.com/in/kasikila-isaac
+
 📧 Email: kasikilaisaac24@gmail.com
-  Let’s collaborate on AI, Data Science, and BSS Engineering projects!
+  
+Let’s collaborate on AI, Data Science, and BSS Engineering projects!
 
