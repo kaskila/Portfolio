@@ -34,7 +34,7 @@ University of Zambia (2020 – 2023)
 
 ### Final Year Project: Voice-Controlled Web App (Actionable AI)  
 Developed a voice-controlled web application using Actionable AI to enhance accessibility and user interaction through speech commands.
-### 🏠 USA House Price Prediction (Machine Learning)  
+### 🏠 House Price Prediction (Machine Learning)  
 Built an end-to-end real estate price prediction system using feature engineering and target encoding to improve accuracy in forecasting housing prices.
 ### 🏅 Sports Person Image Classification (Computer Vision & Machine Learning)  
 Created a complete web application that classifies sports persons using OpenCV and logistic regression, including image preprocessing and model deployment.
